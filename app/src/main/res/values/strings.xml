@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Obfuscated</string>
+    <string name="game_title">Obfuscated</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_rules">Aim of the game:</string>
+    <string name="rules_full">You need to use your reasoning skills to decipher a word that has
+        been Obfuscated! A jumbled up word will show on the screen: you need to identify what the
+        original word was from a selection of 4 possible answers.</string>
+    <string name="prompt_go">Tap ‘How?’ to learn how to play
+        or tap ‘Go!’ to get started!</string>
+    <string name="go">GO!</string>
+    <string name="howto">HOW?</string>
+    <string name="title_activity_game">Obfuscated</string>
+    <string name="score_title">SCORE</string>
+    <string name="multi_title">MULTI</string>
+    <string name="score_actual">0</string>
+    <string name="multi_actual">0</string>
+    <string name="lives_left">3</string>
+    <string name="word_desc">Enciphered Word:</string>
+    <string name="target_word">DEFAULT</string>
+    <string name="action_prompt">What is the original word?</string>
+    <string name="example_score">795</string>
+    <string name="example_multi">0.07</string>
+    <string name="example_word">CONZL</string>
+    <string name="ex_ans_1">MELON</string>
+    <string name="ex_ans_2">LEMON</string>
+    <string name="ex_ans_3">TALON</string>
+    <string name="ex_ans_4">COCOA</string>
+
+    <string-array name="game1">
+        <item>MELON</item>
+        <item>LEMON</item>
+        <item>TALON</item>
+        <item>COCOA</item>
+    </string-array>
+    <string-array name="game2">
+        <item>JIMMY</item>
+        <item>GRAVY</item>
+        <item>TERRY</item>
+        <item>CRAZY</item>
+    </string-array>
+    <string-array name="game3">
+        <item>TOAST</item>
+        <item>GOATS</item>
+        <item>STOUT</item>
+        <item>TASTE</item>
+    </string-array>
+    <string-array name="game4">
+        <item>CREAM</item>
+        <item>DREAM</item>
+        <item>TEAMS</item>
+        <item>BEANS</item>
+    </string-array>
+    <string-array name="game5">
+        <item>CABLE</item>
+        <item>NODES</item>
+        <item>NOBLE</item>
+        <item>CAVES</item>
+    </string-array>
+    <string-array name="game6">
+        <item>GHOST</item>
+        <item>BOOKS</item>
+        <item>GHOUL</item>
+        <item>BOOST</item>
+    </string-array>
+    <string-array name="game7">
+        <item>LIMES</item>
+        <item>LEMON</item>
+        <item>LEMUR</item>
+        <item>TIRED</item>
+    </string-array>
+    <string-array name="game8">
+        <item>LANKY</item>
+        <item>BONES</item>
+        <item>CANDY</item>
+        <item>CANES</item>
+    </string-array>
+    <string-array name="game9">
+        <item>MOGUL</item>
+        <item>MAGES</item>
+        <item>STAGE</item>
+        <item>FACES</item>
+    </string-array>
+    <string-array name="game10">
+        <item>TIRED</item>
+        <item>MISER</item>
+        <item>MIGHT</item>
+        <item>ARISE</item>
+    </string-array>
+    <string-array name="game11">
+        <item>LEAVE</item>
+        <item>HEAVY</item>
+        <item>HORSE</item>
+        <item>FARSE</item>
+    </string-array>
+    <string-array name="game12">
+        <item>OVALS</item>
+        <item>MEATS</item>
+        <item>MEANY</item>
+        <item>MEALS</item>
+    </string-array>
+    <string-array name="game13">
+        <item>NAMED</item>
+        <item>NOBLE</item>
+        <item>GNOME</item>
+        <item>GAMES</item>
+    </string-array>
+    <string-array name="game14">
+        <item>MARIA</item>
+        <item>MADLY</item>
+        <item>SALTS</item>
+        <item>SAILS</item>
+    </string-array>
+    <string-array name="game15">
+        <item>MOTOR</item>
+        <item>TOTEM</item>
+        <item>TOTAL</item>
+        <item>GOLEM</item>
+    </string-array>
+    <string-array name="game16">
+        <item>TWIST</item>
+        <item>EXIST</item>
+        <item>EVILS</item>
+        <item>TWIRL</item>
+    </string-array>
+    <string-array name="game17">
+        <item>ARGON</item>
+        <item>BORON</item>
+        <item>RADON</item>
+        <item>XENON</item>
+    </string-array>
+
+    <string name="title_activity_game_over">Game Over</string>
+    <string name="game_over">Game Over!</string>
+    <string name="fscore_desc">Your final score is:</string>
+    <string name="final_score">DEFAULT</string>
+    <string name="goodbye">Thank\nyou for\nplaying\nObfuscated!</string>
+    <string name="title_activity_how_to_play">How To Play</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_select_difficulty">Select Difficulty</string>
+    <string name="select_prompt_1">SELECT GAME</string>
+    <string name="select_prompt_2">DIFFICULTY</string>
+    <string name="easy_b">EASY</string>
+    <string name="med_b">MEDIUM</string>
+    <string name="hard_b">HARD</string>
+    <string name="imp_b">IMPOSSIBLE</string>
+    <string name="easy_desc">2 / 5 letters rotated\nExample: taste -> tEWte</string>
+    <string name="med_desc">3 / 5 letters rotated\nExample: boost -> boQUV</string>
+    <string name="hard_desc">4 / 5 letters rotated\nExample: terry -> WHrUB</string>
+    <string name="imp_desc">ALL letters rotated\nExample: goats -> MUGZY</string>
+
+    <string name="replay">REPLAY!</string>
+    <string name="exit">EXIT</string>
+
+</resources>
